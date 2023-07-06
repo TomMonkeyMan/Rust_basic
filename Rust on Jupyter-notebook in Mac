@@ -1,0 +1,16 @@
+## How to Install
+
+### I already got
+```
+(base) tiashi@LSGC02DT7TFMD6R Desktop % cargo --version
+cargo 1.70.0 (ec8a8a0ca 2023-04-25)
+```
+```
+cargo install evcxr_jupyter
+```
+
+
+
+
+
+
