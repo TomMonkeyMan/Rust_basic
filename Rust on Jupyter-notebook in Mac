@@ -10,6 +10,9 @@ cargo install evcxr_jupyter
 ```
 
 
+This is not a good practice for using jupyter with compiling language. Just use VScode or others.
+https://users.rust-lang.org/t/newbee-question-rust-ide-choices/96502
+
 
 
 
